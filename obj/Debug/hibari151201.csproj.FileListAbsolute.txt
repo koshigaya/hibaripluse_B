@@ -1,0 +1,12 @@
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\bin\Debug\hibari151201.exe.config
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\bin\Debug\hibari151201.exe
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\bin\Debug\hibari151201.pdb
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.Form1.resources
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.Form2.resources
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.Form3.resources
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.Form4.resources
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.frmSplash.resources
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.Properties.Resources.resources
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.csproj.GenerateResource.Cache
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.exe
+C:\Users\John\Documents\2015年\2015年12月\hibari151201\proto150926\obj\Debug\hibari151201.pdb

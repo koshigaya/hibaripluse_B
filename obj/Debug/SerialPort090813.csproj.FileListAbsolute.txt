@@ -1,0 +1,73 @@
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\bin\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\bin\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.Form1.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.Form2.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.Form3.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.Form4.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.frmSplash.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\SerialPort090813.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\ResGen.read.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibaripulse121024\SerialPort090813\obj\Debug\ResGen.write.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.Form1.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.Form2.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.Form3.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.Form4.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.frmSplash.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\ResGen.read.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\obj\Debug\ResGen.write.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\bin\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\testhibari121030\SerialPort090813\bin\Debug\SerialPort090813.pdb
+I:\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.exe
+I:\testhibari121030\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.Form1.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.Form2.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.Form3.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.Form4.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.frmSplash.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\SerialPort090813.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\ResGen.read.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\obj\Debug\ResGen.write.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\bin\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\t_hibari130612\SerialPort090813\bin\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\bin\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\bin\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.Form1.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.Form2.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.Form3.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.Form4.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.frmSplash.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\SerialPort090813.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\ResGen.read.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\proto131028\SerialPort090813\obj\Debug\ResGen.write.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\bin\Debug\SerialPort090813.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\bin\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.Form1.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.Form2.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.Form3.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.Form4.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.frmSplash.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\ResGen.read.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\hibari131108\SerialPort090813\obj\Debug\ResGen.write.1.tlog
+I:\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.exe
+I:\hibari131108\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\2015年\2015年10月\proto150926\SerialPort090813\obj\Debug\SerialPort090813.exe
+C:\Users\John\Documents\2015年\2015年10月\proto150926\SerialPort090813\obj\Debug\SerialPort090813.pdb
+C:\Users\John\Documents\2015年\2015年10月\proto150926\proto150926\obj\Debug\SerialPort090813.exe
+C:\Users\John\Documents\2015年\2015年10月\proto150926\proto150926\obj\Debug\SerialPort090813.pdb

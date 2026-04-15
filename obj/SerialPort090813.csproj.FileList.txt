@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SerialPort090813.Form1.resources
+obj\Debug\SerialPort090813.Properties.Resources.resources
+obj\Debug\SerialPort090813.csproj.GenerateResource.Cache
+bin\Debug\SerialPort090813.exe
+bin\Debug\SerialPort090813.pdb
+obj\Debug\SerialPort090813.exe
+obj\Debug\SerialPort090813.pdb
+obj\Debug\SerialPort090813.Form2.resources
+obj\Debug\SerialPort090813.Form3.resources
