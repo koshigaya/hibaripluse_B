@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hibari151201", "hibari151201.csproj", "{C264AC71-EAE6-465C-B638-21F2726DE82B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup151202", "..\Setup151202\Setup151202.vdproj", "{2EFDADD0-D3C2-4DA4-95DE-512933696252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C264AC71-EAE6-465C-B638-21F2726DE82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C264AC71-EAE6-465C-B638-21F2726DE82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C264AC71-EAE6-465C-B638-21F2726DE82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C264AC71-EAE6-465C-B638-21F2726DE82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFDADD0-D3C2-4DA4-95DE-512933696252}.Debug|Any CPU.ActiveCfg = Debug
+		{2EFDADD0-D3C2-4DA4-95DE-512933696252}.Debug|Any CPU.Build.0 = Debug
+		{2EFDADD0-D3C2-4DA4-95DE-512933696252}.Release|Any CPU.ActiveCfg = Release
+		{2EFDADD0-D3C2-4DA4-95DE-512933696252}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
