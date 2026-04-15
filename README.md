@@ -1,5 +1,5 @@
 # hibaripluse_B
-plethysmography     
+plethysmograph     
 
 HibariPulse Basic is  a medical instrument,plethysmograph developed by Future Wave,Inc. in Tokyo, Japan.
 We show source code, schematics, PCB layout and other information about HibariPulse Basic.
