@@ -4,6 +4,12 @@ plethysmograph
 HibariPulse Basic is  a medical instrument, plethysmograph developed by Future Wave,Inc. in Tokyo, Japan.
 We show source code, schematics, PCB layout and other information about HibariPulse Basic.
 
+Hibari Pulse Basic is composed of sensor and PC apprication software. The sensor is connected to Windows PC by USB cable. PC apprication software is distributed in CD-R.
+
+DD1111 is the  folder of device driver.  Hibari Pulse Basic uses the device driver of FTDI,Inc. The user should install both PC apprication software and the device driver.
+
+SK111 is the folder of firmware.
+
 pats_list111004.xls is BOM. The PCB has socket, but no MPU. MPU is ATMEGA328p-PU by Microchip Technology,Inc. 
 So, first, we burn firmware on ROM in MPU. Second, we insert MPU on the socket.
 
