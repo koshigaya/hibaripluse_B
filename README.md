@@ -7,4 +7,4 @@ We show Source code, schematics, PCB layout and other information about HibariPu
 pats_list111004.xls is BOM. The PCB has socket, but no MPU. MPU is ATMEGA328p-PU by Micdochip Technology,Inc. 
 So, first, we burn firmware on MPU. Second, we insert MPU on the socket.
 
-appreciation software :  Visual studio 2010(C#)  firmware :Arduino IDE  schematics:CADLUS Design by Nisoul, Inc.  PCB laout:CADLUS X by Nisoul. Inc.  CASE: JW-CAD(customized product byTAKACHI Co,.LTD)
+apprication software :  Visual studio 2010(C#)  firmware :Arduino IDE  schematics:CADLUS Design by Nisoul, Inc.  PCB laout:CADLUS X by Nisoul. Inc.  CASE: JW-CAD(customized product byTAKACHI Co,.LTD)
