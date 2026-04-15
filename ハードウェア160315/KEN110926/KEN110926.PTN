@@ -1,0 +1,33 @@
+;
+; 結線パラメータ（KEN110926.PTN）
+;
+[PatternLine]
+DCode = 21
+DCode = 25
+DCode = 32
+DCode = 33
+DCode = 35
+DCode = 36
+DCode = 39
+DCode = 48
+DCode = 54
+DCode = 62
+DCode = 22
+
+[PatternVia]
+StackCode = 4
+StackCode = 5
+StackCode = 7
+StackCode = 8
+StackCode = 12
+
+[PatternTaper]
+LandEnabled = 0
+PadEnabled = 0
+LandLength = 0
+PadLength = 0
+LandWidth = 0
+PadWidth = 0
+LandMinimumWidth = 0
+PadMinimumWidth = 0
+
